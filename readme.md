@@ -1,0 +1,1 @@
+To run this game you require python3 and pygame
